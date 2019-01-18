@@ -1,0 +1,2 @@
+# tygametetris
+typescript  tetris
